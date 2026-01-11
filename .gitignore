@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+env/
+venv/
+.env
+
+# Logs
+*.log
+vram_log.txt
+
+# Game ROMs
+roms/
+*.gb
+*.gbc
+*.nes
+*.sfc
+*.smc
+
+# IDEs
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
